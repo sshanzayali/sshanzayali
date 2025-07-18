@@ -1,7 +1,7 @@
 # Hi, I'm Shanzay! 
 
 
-A first-year computer science student, currently looking to secure a placement within the IT field.
+A first-year computer science student, interested in all things IT
 
 
 ![PinkDividerGIF](https://github.com/user-attachments/assets/2634982c-13f2-4211-8981-593db413f3f5)
