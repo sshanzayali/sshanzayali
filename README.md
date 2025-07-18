@@ -8,8 +8,7 @@ A first-year computer science student, interested in all things IT
 
 ### 🌸Currently working on
  🍀An interactive GUI-based 2D Java game, based around the adventures of my cat
- 
- 🍀Recently built a - check it out here!
+ 🍀A Pictochat clone made using raw HTML and CSS (just for old times' sake)
  
 ### 🌸Where to reach me
   🍀Contact me on [LinkedIn](https://www.linkedin.com/in/shanzaya/)!
