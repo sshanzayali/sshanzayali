@@ -6,9 +6,11 @@ A second-year computer science student, interested in all things IT
 
 ![PinkDividerGIF](https://github.com/user-attachments/assets/2634982c-13f2-4211-8981-593db413f3f5)
 
-### 🌸Currently working on
+### 🌸Recent Projects
  🍀An interactive GUI-based 2D Java game, based around the adventures of my cat
- 
+
+### 🌸Currently working on
+
  
  🍀A Pictochat clone made using raw HTML and CSS (for old times' sake)
  
