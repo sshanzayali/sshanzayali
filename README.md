@@ -7,7 +7,7 @@ A second-year computer science student, interested in all things IT
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat">
   </a>
 
-![PinkDividerGIF](https://github.com/user-attachments/assets/2634982c-13f2-4211-8981-593db413f3f5)
+![divider](https://media1.tenor.com/m/FNkeWb45-W8AAAAC/divider-green.gif)
 
 ### 🌸Recent Projects
  🍀A productive and cute C# pomodoro tool, accessible from your desktop
@@ -24,7 +24,6 @@ A second-year computer science student, interested in all things IT
   
   🍀Refining my JS skills for web development and focusing on developing small projects and my portfolio website
 
-  
-![PinkDividerGIF](https://github.com/user-attachments/assets/2634982c-13f2-4211-8981-593db413f3f5)
+![divider](https://media1.tenor.com/m/FNkeWb45-W8AAAAC/divider-green.gif)
 
 
